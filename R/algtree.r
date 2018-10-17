@@ -1,6 +1,6 @@
 
 # Algebraic manipulating of trees.
-# v 0.5
+# version 0.5
 
 library("treetop")
 library("igraph")
