@@ -12,8 +12,6 @@ library("adegraphics")
 library("ggplot2")
 library("blockcluster")
 
-
-
 source("tree_algebra/R/NtoS.R")
 source("tree_algebra/R/charOperations.R")
 source("tree_algebra/R/unlabelledFuncs.R")
