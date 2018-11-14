@@ -2,7 +2,7 @@
 # Tree algebra
 
 - Labeling and manipulation of binary rooted trees.
-- Algebraic operations (addition, multiplication, etc.).
+- Algebraic operations: addition, multiplication, etc.
 - Applications for phylogenetic trees.
 
 Initially used as PoC for 
@@ -13,7 +13,7 @@ Initially used as PoC for
 
 All routines are mainly in `algtree.r`.
 
-Update the directory `tree_algebra/`.
+You need to update the directory `tree_algebra/`.
 
 ## See also
 
