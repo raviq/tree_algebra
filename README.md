@@ -7,7 +7,7 @@
 
 Initially used as PoC for 
 
-> Hadfi R. (2018) Solving Tree Problems with Category Theory. In: Iklé M., Franz A., Rzepka R., Goertzel B. (eds) Artificial General Intelligence. AGI 2018. Lecture Notes in Computer Science, vol 10999. Springer, Cham
+> Hadfi R. (2018) "Solving Tree Problems with Category Theory". In: Iklé M., Franz A., Rzepka R., Goertzel B. (eds) Artificial General Intelligence. AGI 2018. Lecture Notes in Computer Science, vol 10999. Springer, Cham
 
 ## Usage
 
